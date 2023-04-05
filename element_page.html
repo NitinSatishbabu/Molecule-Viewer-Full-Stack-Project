@@ -1,0 +1,51 @@
+<html>
+
+<head>
+  <title>Add/Remove Elements</title>
+  <link rel="stylesheet" href="element_page.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"> </script>
+  <script src="element_page.js"> </script>
+</head>
+
+<body>
+  <h1>Add/Remove Elements</h1>
+
+  <form>
+    <label for="elementNumber">Element Number:</label>
+    <input type="number" id="elementNumber" name="elementNumber" required>
+    <br>
+
+    <label for="elementCode">Element Code:</label>
+    <input type="text" id="elementCode" name="elementCode" required>
+    <br>
+
+    <label for="elementName">Element Name:</label>
+    <input type="text" id="elementName" name="elementName" required>
+    <br>
+
+    <label for="colour1">Choose a color 1:</label>
+    <input type="color" id="colour1" name="colour1" value="#FF0000">
+    <br>
+
+    <label for="colour2">Choose a color 2:</label>
+    <input type="color" id="colour2" name="colour2" value="#0000FF">
+    <br>
+
+    <label for="colour3">Choose a color 3:</label>
+    <input type="color" id="colour3" name="colour3" value="#00FF00">
+    <br>
+
+    <label for="radius">Radius:</label>
+    <input type="number" id="radius" name="radius" value="1">
+    <br>
+
+    <button type="submit" id="addbutton">Add Element</button>
+
+    <button type="reset">Clear Fields</button>
+  </form>
+  <a href="remove_page.html"><button id="nextremove">Remove Element</button></a>
+  <hr>
+
+</body>
+
+</html>

@@ -1,0 +1,25 @@
+body {
+  background-color: #f2f2f2;
+}
+
+div {
+  text-align: center;
+}
+
+div a {
+  display: inline-block;
+  padding: 10px 20px;
+  color: black;
+  background-color: purple;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  margin: 20px;
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+  background-color: green;
+  padding: 20px;
+}

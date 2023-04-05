@@ -1,0 +1,101 @@
+
+Marvin  09270717212D          
+
+  9  8  0  0  0  0            999 V2000
+    0.0000    0.8250    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0000    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -0.4125    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.0000    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.7145   -1.2375    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.4289    0.0000    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.4289    0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1434   -0.4125    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0
+  2  1  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  5  1  0  0  0  0
+  2  4  1  0  0  0  0
+  4  6  2  0  0  0  0
+  4  7  1  0  0  0  0
+  5  8  2  0  0  0  0
+  5  9  1  0  0  0  0
+M  END
+> <ID>
+CHEBI:16919
+
+> <NAME>
+creatine
+
+> <DEFINITION>
+A glycine derivative having methyl and amidino groups attached to the nitrogen.
+
+> <STAR>
+3
+
+> <SECONDARY_ID>
+CHEBI:23404; CHEBI:41678; CHEBI:3909; CHEBI:14028
+
+> <SYNONYM>
+N-methyl-N-guanylglycine; N-Methyl-N-guanylglycine; N-carbamimidoyl-N-methylglycine; N-amidinosarcosine; N-[(E)-AMINO(IMINO)METHYL]-N-METHYLGLYCINE; N-(aminoiminomethyl)-N-methylglycine; Methylglycocyamine; Kreatin; Creatine; Creatin; alpha-Methylguanidino acetic acid; (N-methylcarbamimidamido)acetic acid; (alpha-methylguanido)acetic acid; (alpha-methylguanido)acetic acid; ((amino(imino)methyl)(methyl)amino)acetic acid
+
+> <IUPAC_NAME>
+N-[amino(imino)methyl]-N-methylglycine
+
+> <FORMULA>
+C4H9N3O2
+
+> <MASS>
+131.13328
+
+> <MONOISOTOPIC_MASS>
+131.06948
+
+> <CHARGE>
+0
+
+> <SMILES>
+CN(CC(O)=O)C(N)=N
+
+> <INCHI>
+InChI=1S/C4H9N3O2/c1-7(4(5)6)2-3(8)9/h2H2,1H3,(H3,5,6)(H,8,9)
+
+> <INCHIKEY>
+CVSVTCORWBXHQV-UHFFFAOYSA-N
+
+> <BEILSTEIN_REGISTRY_NUMBER>
+907175
+
+> <CAS_REGISTRY_NUMBER>
+57-00-1
+
+> <GMELIN_REGISTRY_NUMBER>
+240513
+
+> <REAXYS_REGISTRY_NUMBER>
+907175
+
+> <CHEMIDPLUS>
+57-00-1
+
+> <DRUGBANK_ACCESSION>
+DB00148
+
+> <KEGG_COMPOUND_ACCESSION>
+C00300
+
+> <METACYC_ACCESSION>
+CREATINE
+
+> <NIST_CHEMISTRY_WEBBOOK>
+57-00-1
+
+> <PDBECHEM_ACCESSION>
+CRN
+
+> <WIKIPEDIA_ACCESSION>
+Creatine
+
+> <PUBMED_CITATION>
+11356982; 11483809; 11867929; 12085493; 12184144; 12878267; 16445883; 17190852; 17253521; 17416441; 18555535; 19082141; 19651674; 19741514; 19968328; 21556832; 21660517; 21698493; 22038587; 22101931; 22196490; 22252611; 22347384; 22386973; 22422801; 22429992; 22465051; 22521466; 7752905
+
+$$$$
